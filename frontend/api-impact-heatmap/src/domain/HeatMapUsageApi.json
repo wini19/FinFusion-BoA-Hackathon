@@ -1,0 +1,162 @@
+[
+  {
+    "apiId": "1",
+    "apiName": "api1",
+    "owningService": "Profile Service",
+    "calls": 10000,
+    "consumers": 50,
+    "impactScore": 100
+  },
+  {
+    "apiId": "2",
+    "apiName": "api2",
+    "owningService": "Order Service",
+    "calls": 1,
+    "consumers": 1,
+    "impactScore": 0
+  },
+  {
+    "apiId": "3",
+    "apiName": "api3",
+    "owningService": "Payment Service",
+    "calls": 8500,
+    "consumers": 40,
+    "impactScore": 95
+  },
+  {
+    "apiId": "4",
+    "apiName": "api4",
+    "owningService": "Inventory  Service",
+    "calls": 5000,
+    "consumers": 25,
+    "impactScore": 80
+  },
+  {
+    "apiId": "5",
+    "apiName": "api5",
+    "owningService": "Shipping Service",
+    "calls": 3000,
+    "consumers": 20,
+    "impactScore": 70
+  },
+  {
+    "apiId": "6",
+    "apiName": "api6",
+    "owningService": "Notification  Service",
+    "calls": 1500,
+    "consumers": 15,
+    "impactScore": 60
+  },
+  {
+    "apiId": "7",
+    "apiName": "api7",
+    "owningService": "Auth Service",
+    "calls": 12000,
+    "consumers": 55,
+    "impactScore": 98
+  },
+  {
+    "apiId": "8",
+    "apiName": "api8",
+    "owningService": "Analytics Service",
+    "calls": 2500,
+    "consumers": 18,
+    "impactScore": 65
+  },
+  {
+    "apiId": "9",
+    "apiName": "api9",
+    "owningService": "Search Service",
+    "calls": 7000,
+    "consumers": 30,
+    "impactScore": 85
+  },
+  {
+    "apiId": "10",
+    "apiName": "api10",
+    "owningService": "Recommend Service",
+    "calls": 4000,
+    "consumers": 22,
+    "impactScore": 75
+  },
+  {
+    "apiId": "11",
+    "apiName": "api11",
+    "owningService": "Cart Service",
+    "calls": 9500,
+    "consumers": 45,
+    "impactScore": 92
+  },
+  {
+    "apiId": "12",
+    "apiName": "api12",
+    "owningService": "Review Service",
+    "calls": 1800,
+    "consumers": 12,
+    "impactScore": 55
+  },
+  {
+    "apiId": "13",
+    "apiName": "api13",
+    "owningService": "Discount Service",
+    "calls": 2200,
+    "consumers": 14,
+    "impactScore": 58
+  },
+  {
+    "apiId": "14",
+    "apiName": "api14",
+    "owningService": "Tax Service",
+    "calls": 3200,
+    "consumers": 16,
+    "impactScore": 62
+  },
+  {
+    "apiId": "15",
+    "apiName": "api15",
+    "owningService": "Invoice Service",
+    "calls": 2800,
+    "consumers": 13,
+    "impactScore": 59
+  },
+  {
+    "apiId": "16",
+    "apiName": "api16",
+    "owningService": "Subscription Service",
+    "calls": 6000,
+    "consumers": 28,
+    "impactScore": 78
+  },
+  {
+    "apiId": "17",
+    "apiName": "api17",
+    "owningService": "Feedback Service",
+    "calls": 900,
+    "consumers": 8,
+    "impactScore": 40
+  },
+  {
+    "apiId": "18",
+    "apiName": "api18",
+    "owningService": "Geo Service",
+    "calls": 1300,
+    "consumers": 10,
+    "impactScore": 50
+  },
+  {
+    "apiId": "19",
+    "apiName": "api19",
+    "owningService": "FraudDetection Service",
+    "calls": 7200,
+    "consumers": 32,
+    "impactScore": 88
+  },
+  {
+    "apiId": "20",
+    "apiName": "api20",
+    "owningService": "Logging Service",
+    "calls": 500,
+    "consumers": 5,
+    "impactScore": 30
+  }
+]

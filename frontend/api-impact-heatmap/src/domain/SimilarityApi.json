@@ -1,0 +1,24 @@
+[
+  {
+    "apiName": "getUser",
+    "similarApis": [
+      {
+        "apiName": "getUserDuplicate",
+        "similarity": 1
+      }
+    ]
+  },
+  {
+    "apiName": "updateProfile",
+    "similarApis": [
+      {
+        "apiName": "updateProfileDuplicate",
+        "similarity": 0.92
+      },
+      {
+        "apiName": "updateProfileAlt",
+        "similarity": 0.85
+      }
+    ]
+  }
+]

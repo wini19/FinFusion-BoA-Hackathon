@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "name": "Auth Service", "x": 0, "y": 0, "impact": 85 },
+    { "name": "User Profile", "x": 1, "y": 0, "impact": 60 },
+    { "name": "Billing Engine", "x": 2, "y": 0, "impact": 90 },
+    { "name": "Notification Hub", "x": 0, "y": 1, "impact": 40 },
+    { "name": "Search Indexer", "x": 1, "y": 1, "impact": 75 },
+    { "name": "Recommendation Engine", "x": 2, "y": 1, "impact": 55 },
+    { "name": "Analytics Collector", "x": 0, "y": 2, "impact": 30 },
+    { "name": "Session Manager", "x": 1, "y": 2, "impact": 65 },
+    { "name": "Content Delivery", "x": 2, "y": 2, "impact": 50 },
+    { "name": "Audit Logger", "x": 0, "y": 3, "impact": 20 },
+    { "name": "API Gateway", "x": 1, "y": 3, "impact": 95 },
+    { "name": "Cache Layer", "x": 2, "y": 3, "impact": 70 }
+  ]
+}

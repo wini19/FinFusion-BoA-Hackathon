@@ -1,0 +1,12 @@
+{
+  "apiId": "5",
+  "apiName": "getUser",
+  "path": "/user",
+  "method": "GET",
+  "params": ["userId"],
+  "responseSchema": {
+    "name": "string",
+    "email": "string"
+  },
+  "tags": ["user", "profile"]
+}
